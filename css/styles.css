@@ -18,6 +18,12 @@
     letter-spacing:0.02em;
 
 }
+.nav-link:hover{
+    color:#404bbf;
+}
+.nav-link:focus{
+    color:#404bbf;
+}
 .adress{
     font-style: normal;
 }
