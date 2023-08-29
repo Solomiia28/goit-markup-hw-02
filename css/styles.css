@@ -10,6 +10,10 @@
 
 .nav-link{
     color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing:0.02em;
+    
 }
 .adress-link{
     color: #434455;
