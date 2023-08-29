@@ -7,6 +7,9 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+.logo-studio{
+    color:#2e2f42;
+}
 
 .nav-link{
     color: #2E2F42;
@@ -15,9 +18,13 @@
     letter-spacing:0.02em;
 
 }
+.adress{
+    font-style: normal;
+}
+
 .adress-link{
     color: #434455;
-    font-style: normal;
+
 }
 .body{
     font-family: "Roboto",sans-serif;
