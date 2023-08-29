@@ -72,3 +72,41 @@
 .button:focus{
     background-color: #404BBF;
 }
+.heder-three{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+.p-heder-three{
+    line-height:1.5;
+    letter-spacing:0.02em;
+}
+.section-Our-Team{
+    background-color:#F4F4FD;
+}
+.header-two-Our-Team{
+    font-family:"Roboto";
+    font-size: 36px;
+    letter-spacing :0.02em;
+    line-height:1.11;
+    text-align:center;
+    text-transform:capitalize;
+    color:#2E2F42;
+}
+.section-images{
+    background-color:#F4F4FD;
+}
+.heder-three {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.p-heder-three {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+}
