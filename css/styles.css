@@ -109,14 +109,35 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
+    font-weight:400;
+    color:#434455;
 }
-
-
-
-
-
-
-
+.section-our-portfolio{
+    color:#E7E9FC;
+}
+.heder-two-our-portfolio{
+    font-family:"Roboto";
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.heder-three{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.p-heder-three-portfolio{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    font-weight: 400;
+    color: #434455;
+}
 
 .footer{
     background-color:#2e2f42;
@@ -137,4 +158,6 @@
     line-height: 1.5;
     color:#F4F4FD;
     letter-spacing: 0.02em;
+    font-weight:400;
+    font-size:16;
 }
