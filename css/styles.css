@@ -28,15 +28,15 @@
     font-style:normal;
 }
 
-.adress-contact{
+.contact{
     color:#434455;
     line-height:1.5;
     letter-spacing:0.02em;
 }
-.adress-contact:hover{
+.contact:hover{
     color:#404bbf;
 }
-.adress-contact:focus{
+.contact:focus{
     color:#404bbf
 }
 .body{
