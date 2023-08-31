@@ -106,7 +106,7 @@
     color: var(--c-primary);
 }
 .section-images{
-    background-color: var(--c-background-light);
+    background-color: var(--c-background-white)
 }
 .heder-three {
     font-size: 20px;
@@ -148,6 +148,8 @@
     background-color: var(--c-primary);
 }
 .footer-logo{
+    font-family:"Raleway",sans-serif;
+    font-weight:700;
     font-size: 18px;
     line-height:1.17;
     letter-spacing:0.03em;
